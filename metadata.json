@@ -1,0 +1,6 @@
+{
+  "name": "FolioForge",
+  "description": "Offline-first, zero-limit all-in-one PDF studio for merging, splitting, converting, editing, signing, OCR, forms, redaction, and document analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
